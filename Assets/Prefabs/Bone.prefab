@@ -97,6 +97,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7a7a46e3daac6d6bd92d4424f193b663, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  musclePrefab: {fileID: 8235199770871688699, guid: 65e7b4f2511e870478c45968816b79d1, type: 3}
+  muscleBones: []
 --- !u!50 &3756774734784795057
 Rigidbody2D:
   serializedVersion: 4
